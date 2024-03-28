@@ -1,0 +1,40 @@
+DISTRICT,Crops,Area,Production,fertiliser,cost of cultivation,Duration,expected revenues
+Ariyalur,Mango,1254,2000,urea,Rs.60000,6 months,120000
+Chengalpattu,sugarcane,2,1,potassium,Rs.70500,7 months,720000
+Chennai ,onion,102,321,Fast Release Nitrogen,Rs.70501,8 months,190000
+Coimbatore ,millet,176,641,Slow Release Nitrogen,Rs.70502,9 months,185000
+Cuddalore,turmeric,720,165,Controlled Release,Rs.70503,10 months,180000
+Dharmapuri,Tomato,18168,65100000,urea,Rs.70504,11 months,150000
+Dindigul,sapota,36,100,Ammonium Sulfate (NH4)2SO4,Rs.70505,12 months,130000
+Erode,Banana,1,2,Calcium cyanamide CaCN2,Rs.70506,13 months,179000
+Kallakkurichi,Maize,5,15,Calcium nitrate Ca(NO3)2,Rs.70507,14 months,120000
+Kancheepuram,Watermelon,40,169,Sodium nitrate NaNO3,Rs.70508,15 months,186000
+Kanniyakumari,paddy,1254,2061,Urea NH2CONH2.,Rs.70509,16 months,123670
+Karur,cocount,2,1,potassium,Rs.75905,17 months,129000
+Krishnagiri,ragi,83,300,Fast Release Nitrogen,Rs.77005,18 months,120000
+Madurai,cotton,719,192,Slow Release Nitrogen,Rs.79800,19 months,120000
+Mayiladuthurai,tapioca,18190,64430000,Controlled Release,Rs.88513,20 months,120000
+Nagapattinam,Jackfruits,46,100,Calcium phosphate,Rs.90514,21 months,120000
+Namakal,carrot,1,1,Tetraphosphate,Rs.10515,22 months,120000
+Nilgiris,eggplant,11,33,Diammonium Phosphate(NH4)2HPO4,Rs.70516,23 months,120000
+Perambalur,brinjal,189.2,510.84,Ammonium NitrateNH4NO3,Rs.70517,24 months,120000
+Pudukottai,coriander,1258,2083,Calcium phosphate,Rs.70518,25 months,120000
+Ramanathapuram,okra,213,1278,Ammonium Sulfate (NH4)2SO4,Rs.70519,26 months,154320
+Ranipet,coffee,63,13.5,Calcium cyanamide CaCN2,Rs.99520,27 months,120000
+Salem,black gram,719,208,Calcium nitrate Ca(NO3)2,Rs.70521,28 months,420000
+Sivaganga,guava,18240,67490000,Sodium nitrate NaNO3,Rs.54322,29 months,199000
+Tenkasi,peanuts,413,28.8,Urea NH2CONH2.,Rs.70523,30 months,120000
+Thanjavur,cocoa,47.3,133,urea,Rs.70524,31 months,120000
+Theni,cabbage,5,40,Tetraphosphate,Rs.70525,32 months,120000
+Thoothukudi,chilies,52,90.17,Calcium phosphate,Rs.70526,33 months,120000
+Tiruchirappalli,acidic lime,1261,1525,Tetraphosphate,Rs.70527,34 months,120000
+Tirunelveli,ginger,266,1763,urea,Rs.70528,35 months,120000
+Tirupathur,red gram,75.5,15.86,potassium,Rs.70529,36 months,120000
+Tiruppur,papaya,717,208.5,Fast Release Nitrogen,Rs.70530,37 months,125000
+Tiruvallur,muskmelon,18284.74,68580000,Slow Release Nitrogen,Rs.87531,38 months,120000
+Tiruvannamalai,green,60,102,Controlled Release,Rs.70532,39 months,120000
+Thanjavur,jasmine,102,326.4,Ammonium Sulfate (NH4)2SO4,Rs.30533,40 months,120000
+Vellore,cashew,4.2,0.3,Calcium cyanamide CaCN2,Rs.70534,41 months,123400
+Villupuram,amla,52.94,72.57,Calcium nitrate Ca(NO3)2,Rs.69535,42 months,120980
+Virudhunagar,peppers,1265,97.6,Sodium nitrate NaNO3,Rs.58536,43 months,126700
+,,,,,,,
