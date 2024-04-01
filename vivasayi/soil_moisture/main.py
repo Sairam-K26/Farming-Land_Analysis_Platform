@@ -1,6 +1,5 @@
 from sklearn.tree import DecisionTreeClassifier
 import numpy as np
-# import pandas as pd
 import streamlit as st
 import openpyxl
 from collections.abc import MutableMapping
@@ -17,7 +16,7 @@ clf = DecisionTreeClassifier(random_state=42)
 clf.fit(soil_moisture.reshape(-1, 1), plant_type)
 
 # Load the Excel workbook
-workbook = openpyxl.load_workbook(r'C:\Users\sabar\OneDrive\Desktop\machinelearning\Book2.xlsx')
+workbook = openpyxl.load_workbook(r'C:\Users\sabar\OneDrive\Desktop\machinelearning\predicted_values.xlsx')
 
 # Select the sheet you want to read from
 sheet = workbook['Table 0']
