@@ -23,7 +23,7 @@ NumPy
 Matplotlib
 
 
-Flask (for web application, if applicable)
+Flutter(for web application, if applicable)
 
 
 You can download them using the following commands:
