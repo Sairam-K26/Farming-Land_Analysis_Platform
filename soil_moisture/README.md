@@ -11,12 +11,9 @@ The Decision Tree Classifier algorithm is chosen for its simplicity and interpre
 
 **Prerequisites**
 
-Before running the application, ensure you have the following installed:
-
 Python 3.x
 
 Required Python packages (scikit-learn, numpy, streamlit, openpyxl)
-You can install the required packages using pip:
 
 ```
 pip install  numpy streamlit openpyxl
@@ -33,11 +30,9 @@ For Intel based Optimisation
 
 **Usage**
 
-Follow these steps to use the application:
-
 Clone the Repository:
 
-Clone the repository to your local machine:
+
 
 ```
 git clone https://github.com/your-username/plant-type-prediction.git
@@ -51,7 +46,6 @@ cd plant-type-prediction
 
 **Install Required Packages:**
 
-Install the required Python packages:
 
 ```
 pip install -r requirements.txt
@@ -59,7 +53,6 @@ pip install -r requirements.txt
 
 Run the Streamlit App:
 
-Launch the Streamlit app:
 
 ```
 streamlit run main.py
@@ -77,6 +70,7 @@ The predicted plant type based on the provided soil moisture value will be displ
 **Explore Predictions:**
 
 Try different soil moisture values to observe how the predicted plant type changes.
+
 The app updates the prediction in real-time as you input different soil moisture values.
 
 **Close the Application:**
