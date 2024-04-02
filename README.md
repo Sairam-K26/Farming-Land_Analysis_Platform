@@ -43,6 +43,9 @@ The Farmer Assist App is a comprehensive tool designed to empower farmers with t
 - Predict surface water levels in agricultural areas to assess the risk of flooding or drought.
 - Implement water management strategies to mitigate the impact of extreme weather events.
 
+  ![image](https://github.com/Sairam-K26/Farming-Land_Analysis_Platform/assets/114644591/c849e8c4-2c1a-4a55-a75b-1c4add640dbc)
+
+
 [Learn More](Surface_water_Level_predictor/README.md) | [Explore Folder](Surface_water_Level_predictor)
 
 ### Crop Yield Prediction
