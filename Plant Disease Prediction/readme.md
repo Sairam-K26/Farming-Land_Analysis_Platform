@@ -1,7 +1,7 @@
-#Plant Disease Detection System#
->This repository contains the code and necessary files for a Plant Disease Detection System. The system is designed to identify diseases in plants using image processing techniques and machine learning algorithms.
+#**Plant Disease Detection System**
+This repository contains the code and necessary files for a Plant Disease Detection System. The system is designed to identify diseases in plants using image processing techniques and machine learning algorithms.
 
-##Requirements##
+##**Requirements**
 Python 3.x
 TensorFlow
 Keras
