@@ -47,10 +47,16 @@ cd rainfall-crop-recommendation
 pip install -r requirements.txt
 ```
 
-## **Run the Streamlit App:**
+## **Converting this into pickle file**
 
 ```bash
-streamlit run main.py
+import pickle
+
+with open('model.pkl', 'rb') as f:
+    model = pickle.load(f)
+
+predicted_value = model.predict(X_test)
+
 ```
 
 ## **Interact with the Application:**
