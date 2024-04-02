@@ -14,12 +14,22 @@ The Decision Tree Classifier algorithm is chosen for its simplicity and interpre
 Before running the application, ensure you have the following installed:
 
 Python 3.x
+
 Required Python packages (scikit-learn, numpy, streamlit, openpyxl)
 You can install the required packages using pip:
 
 ```
-pip install scikit-learn numpy streamlit openpyxl
+pip install  numpy streamlit openpyxl
 ```
+
+For Intel based Optimisation 
+
+```
+
+!pip install scikit-learn-intelex
+```
+
+
 
 **Usage**
 
