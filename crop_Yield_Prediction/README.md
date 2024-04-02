@@ -48,10 +48,18 @@ cd crop-yield-prediction
 pip install -r requirements.txt
 ```
 
-## **Run the Streamlit App:**
+## **Converting this into pickle file **
 
 ```bash
-streamlit run main.py
+import pickle
+
+# Load the trained model from the pickle file
+with open('model.pkl', 'rb') as f:
+    model = pickle.load(f)
+
+# Now you can use the loaded model for predictions
+predicted_value = model.predict(X_test)
+
 ```
 
 ## **Interact with the Application:**
