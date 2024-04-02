@@ -1,5 +1,5 @@
 
-# **Crop Yield Prediction**
+# ** Crop Yield Prediction**
 
 This project aims to predict crop yields based on various agricultural factors using machine learning techniques. The prediction is made using a Python script (`main.py`) that utilizes the scikit-learn library for machine learning tasks. The user interface for interacting with the prediction model is built using Streamlit, a popular Python library for creating web applications.
 
@@ -48,16 +48,14 @@ cd crop-yield-prediction
 pip install -r requirements.txt
 ```
 
-## **Converting this into pickle file **
+## **Converting this into pickle file**
 
 ```bash
 import pickle
 
-# Load the trained model from the pickle file
 with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-# Now you can use the loaded model for predictions
 predicted_value = model.predict(X_test)
 
 ```
