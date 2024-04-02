@@ -1,5 +1,5 @@
 
-# ** Crop Yield Prediction**
+# **Crop Yield Prediction**
 
 This project aims to predict crop yields based on various agricultural factors using machine learning techniques. The prediction is made using a Python script (`main.py`) that utilizes the scikit-learn library for machine learning tasks. The user interface for interacting with the prediction model is built using Streamlit, a popular Python library for creating web applications.
 
