@@ -1,4 +1,4 @@
-# **Crop Recommendation based on Rainfall Prediction**
+# **Rainfall Prediction**
 
 This project aims to recommend suitable crops based on rainfall predictions using a Decision Tree Classifier algorithm. The prediction is made using a Python script (`main.py`) that utilizes the scikit-learn library for machine learning tasks. The user interface for interacting with the recommendation model is built using Streamlit, a popular Python library for creating web applications.
 
