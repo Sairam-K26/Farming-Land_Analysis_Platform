@@ -47,10 +47,15 @@ cd crop-recommendation
 pip install -r requirements.txt
 ```
 
-## **Run the Streamlit App:**
+## **Converting Pickle:**
 
 ```bash
-streamlit run main.py
+import pickle
+
+with open('model.pkl', 'rb') as f:
+    model = pickle.load(f)
+
+tf.saved_model.save(model, 'saved_model_path')
 ```
 
 ## **Interact with the Application:**
