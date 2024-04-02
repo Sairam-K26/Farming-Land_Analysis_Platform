@@ -1,4 +1,4 @@
-from sklearn.tree import DecisionTreeClassifier
+from sklearnex.ensemble import RandomForestClassifier
 import numpy as np
 import streamlit as st
 import openpyxl
