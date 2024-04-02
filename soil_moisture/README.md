@@ -9,6 +9,8 @@ Gardening and farming enthusiasts often face the challenge of selecting the most
 
 The Decision Tree Classifier algorithm is chosen for its simplicity and interpretability. It learns from a set of training data containing soil moisture values and corresponding plant types. Once trained, the model can predict the plant type based on new soil moisture values provided by the user.
 
+We have Optimised our model with the **Intel SKLearn Patch** for the model optimisation
+
 **Prerequisites**
 
 Python 3.x
