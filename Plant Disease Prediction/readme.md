@@ -59,23 +59,20 @@ pip install -r requirements.txt
 
 The dataset used in this project can be found [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
 
+**Training the Model**
 
-## **Explore Predictions:**
-
-Try different soil moisture values to observe how the predicted plant type changes.
-
-The app updates the prediction in real-time as you input different soil moisture values.
+Train the model with the dataset given 
 
 
 
-**Close the Application:**
+## **Converting this into pickle file**
 
-To close the app, close the browser window or press Ctrl+C in the terminal.
+```bash
+import pickle
 
+with open('model.pkl', 'rb') as f:
+    model = pickle.load(f)
 
-## **Files**
+predicted_value = model.predict(X_test)
 
-main.py: Python script containing the code for predicting plant types based on soil moisture values.
-
-predicted_values.xlsx: Excel file containing soil moisture values to be predicted.
-
+```
