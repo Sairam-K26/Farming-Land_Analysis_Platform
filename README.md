@@ -13,42 +13,42 @@ The Farmer Assist App is a comprehensive tool designed to empower farmers with t
 - Get personalized crop recommendations based on factors like soil type, climate, and historical yield data.
 - Make informed decisions about crop selection to maximize productivity and profitability.
 
-[Learn More](crop_recommendation/README.md) | [Explore Folder](crop_recommendation/)
+[Learn More](Crop_recommendation/README.md) | [Explore Folder](Crop_recommendation)
 
 ### Plant Disease Prediction
 
 - Predict potential diseases affecting crops using advanced machine learning algorithms.
 - Receive early warnings and actionable insights to prevent disease outbreaks and minimize crop loss.
 
-[Learn More](plant_disease_prediction/README.md) | [Explore Folder](plant_disease_prediction/)
+[Learn More](Plant Disease Prediction/readme.md) | [Explore Folder](Plant Disease Prediction)
 
 ### Rainfall Prediction
 
 - Access accurate rainfall forecasts and predictions for your region.
 - Plan irrigation schedules and farming activities more effectively to optimize water usage.
 
-[Learn More](rainfall_prediction/README.md) | [Explore Folder](rainfall_prediction/)
+[Learn More](Rainfall_prediction/readme.md) | [Explore Folder](Rainfall_prediction)
 
 ### Surface Water Level Predictor
 
 - Predict surface water levels in agricultural areas to assess the risk of flooding or drought.
 - Implement water management strategies to mitigate the impact of extreme weather events.
 
-[Learn More](surface_water_level_predictor/README.md) | [Explore Folder](surface_water_level_predictor/)
+[Learn More](Surface_water_Level_predictor/README.md) | [Explore Folder](Surface_water_Level_predictor)
 
 ### Crop Yield Prediction
 
 - Predict crop yields based on various factors such as soil quality, weather conditions, and farming practices.
 - Plan harvest schedules and resource allocation for optimal yield outcomes.
 
-[Learn More](crop_yield_prediction/README.md) | [Explore Folder](crop_yield_prediction/)
+[Learn More](crop_Yield_Prediction/README.md) | [Explore Folder](crop_Yield_Prediction)
 
 ### Soil Moisture Prediction
 
 - Monitor soil moisture levels to ensure optimal conditions for crop growth.
 - Implement precise irrigation strategies to prevent overwatering or drought stress.
 
-[Learn More](soil_moisture/README.md) | [Explore Folder](soil_moisture/)
+[Learn More](soil_moisture/README.md) | [Explore Folder](soil_moisture)
 
 ## Flutter App
 
