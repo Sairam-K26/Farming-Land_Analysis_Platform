@@ -48,7 +48,7 @@ The Farmer Assist App is a comprehensive tool designed to empower farmers with t
 - Monitor soil moisture levels to ensure optimal conditions for crop growth.
 - Implement precise irrigation strategies to prevent overwatering or drought stress.
 
-[Learn More](soil_moisture/README.md) | [Explore Folder](soil_moisture)
+[Learn More](soil_moisture/README.md) | [Explore Folder](soil_moisture/)
 
 ## Flutter App
 
